@@ -5,6 +5,8 @@ _A Python wrapper around Trent Barton's live bus times_
 [![Build Status](https://travis-ci.org/alxwrd/bartonbus.svg?branch=master)](https://travis-ci.org/alxwrd/bartonbus)
 [![Downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://pypistats.org/api/packages/bartonbus/recent?mirrors=false&label=downloads&query=$.data.last_month&suffix=/month)](https://pypistats.org/packages/bartonbus)
 
+> I never got around to building this :grimacing:
+
 ## Example
 
 ```python
